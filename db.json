@@ -7,5 +7,21 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "get" : {
+        "id": 19,
+        "bpname": "asasf",
+        "createdBy": "in02256",
+        "createDate": "2023-09-01",
+        "recStatus": "A",
+        "paymentmode": 52392,
+        "bpnationality": 53427,
+        "remarks": "hhh",
+        "country": "1105415",
+        "state": "1105474",
+        "location": "909933",
+        "accno": "4545254",
+        "billingcycle": 52023,
+        "currencyId": 52055
+    }
 }
